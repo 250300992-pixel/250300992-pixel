@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td width="300">
+<td width="400">
 <img src="assets/casillero.png" width="280"/>
 </td>
 <td>
@@ -12,7 +12,7 @@
 </tr>
 </table>
 
-<h3 align="left">AI engineer student </h3>
+
 
 <p align="center">
   <img src= [https://readme-typing-svg.demolab.com](https://readme-typing-svg.demolab.com/demo/?font=Michroma&color=FF0517&lines=way+to+go+phoebe)font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=+%3E+Start+Debugging+The+Chaos;%3E+Code+Like+A+Menace;+%3E+If+It+Compiles%2C+It's++Staying;Just+Code+Nig alt="Typing SVG" />
