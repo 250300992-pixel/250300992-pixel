@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="./assets/ascihand-removebg-preview.png" alt="Banner" width="100%">
+<p align="right">
+  <img src="assets/casillero.png" alt="Casillero" width="400"/>
 </p>
 
 <h1 align="center">Hello people, me be valee</h1>
