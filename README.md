@@ -1,8 +1,16 @@
-<p align="right">
-  <img src="assets/casillero.png" alt="Casillero" width="400"/>
-</p>
+<table>
+<tr>
+<td width="300">
+<img src="assets/casillero.png" width="280"/>
+</td>
+<td>
 
-<h1 align="center">Hello people, me be valee</h1>
+<h1 align="left">Hello people, me be valee</h1>
+<h3 align="left">AI engineer student </h3>
+
+</td>
+</tr>
+</table>
 
 <h3 align="left">AI engineer student </h3>
 
