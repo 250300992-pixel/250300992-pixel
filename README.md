@@ -2,16 +2,16 @@
   <img src="./assets/ascihand-removebg-preview.png" alt="Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, Imma Shady</h1>
+<h1 align="center">Hello people, me be valee</h1>
 
-<h3 align="center">Backend Developer</h3>
+<h3 align="left">AI engineer student </h3>
 
 <p align="center">
   <img src= [https://readme-typing-svg.demolab.com](https://readme-typing-svg.demolab.com/demo/?font=Michroma&color=FF0517&lines=way+to+go+phoebe)font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=+%3E+Start+Debugging+The+Chaos;%3E+Code+Like+A+Menace;+%3E+If+It+Compiles%2C+It's++Staying;Just+Code+Nig alt="Typing SVG" />
 </p>
 
-<p align="center">
-Building reliable backend systems with clean architecture and scalable solutions.
+<p align="left">
+HIII, mi nombre ser vale y soy estudiante de ingeniería en IA
 </p>
 
 
