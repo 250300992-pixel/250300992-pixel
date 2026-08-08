@@ -19,28 +19,22 @@ Learning everything i can about this wonderful technological world.
 
 <img align="right" src="./assets/astro-removebg-preview.png" width="280" alt="Developer Illustration"/>
 
-**Shaddy**, Here  — a final-year Computer Engineering student focused on backend development.
-
-I enjoy building scalable, production-ready APIs with Python and continuously improving my understanding of real-world backend systems.
-
-Currently, I'm learning **FastAPI, PostgreSQL, SQLAlchemy, Docker, and Redis**, while sharpening my problem-solving skills through **Data Structures & Algorithms**.
-
-My goal is simple: write clean code, build reliable software, and grow into a software engineer who creates systems that last.
+**valeee**, Here  — AI engineering student passionate about software development. I have worked with Python, Django, and PostgreSQL on projects such as data management systems, role-based authentication, dashboards, and REST APIs, as well as Access databases and Excel automation using openpyxl. I am interested in robotics and creative coding, including interactive animations in p5.js. Founder of UsagiCode, a community focused on programming, web development, cybersecurity, and AI.
 
 <br clear="right"/>
 
  <h2 align="center">🤝 Connect</h2>
 
 <p align="center">
-  <a href="https://github.com/midnightshady">
+  <a href="[https://github.com/250300992-pixel]">
     <img src="https://skillicons.dev/icons?i=github" height="45" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/kaif-qureshi-999457339">
+  <a href="www.linkedin.com/in/ana-valeria-del-mar-valladares-camara-642a19391">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:kaifqureshi3672@gmail.com">
+  <a href="mailto:anavalladarescamara@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="45" />
   </a>
 </p>
@@ -51,21 +45,6 @@ My goal is simple: write clean code, build reliable software, and grow into a so
   <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,docker,git,github,vscode,html,css,c,aws" />
 </p>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="NumPy" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="Pandas" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="48" alt="OpenCV" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="48" alt="TensorFlow" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="48" alt="PyTorch" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" alt="Jupyter" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="48" alt="Google Cloud" />
-</p>
 
 <h2 align="center">📊 GitHub Stats</h2>
 
