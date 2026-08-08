@@ -5,7 +5,7 @@
 </td>
 <td>
 
-![Hello people, me be Valee](https://img.shields.io/badge/Hello%20people,%20me%20be%20Valee-8A2BE2?style=for-the-badge)
+![Hello people, me be Valee](https://img.shields.io/badge/Hello_people,_me_be_Valee-000?style=for-the-badge&logo=googlefonts&logoColor=8A2BE2)
 <h3 align="left">AI engineer student </h3>
 
 </td>
