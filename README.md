@@ -1,6 +1,6 @@
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="400">
+<td width="300">
 <img src="assets/casillero.png" width="280"/>
 </td>
 <td>
