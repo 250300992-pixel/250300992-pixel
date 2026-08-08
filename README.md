@@ -1,25 +1,17 @@
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="300">
-<img src="assets/casillero.png" width="280"/>
-</td>
-<td>
-
-![Hello people, me be Valee](https://img.shields.io/badge/Hello_people,_me_be_Valee-000?style=for-the-badge&logo=googlefonts&logoColor=8A2BE2)
-<h3 align="left">AI engineer student </h3>
-
-</td>
-</tr>
-</table>
-
-
-
 <p align="center">
-  <img src= [https://readme-typing-svg.demolab.com](https://readme-typing-svg.demolab.com/demo/?font=Michroma&color=FF0517&lines=way+to+go+phoebe)font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=+%3E+Start+Debugging+The+Chaos;%3E+Code+Like+A+Menace;+%3E+If+It+Compiles%2C+It's++Staying;Just+Code+Nig alt="Typing SVG" />
+  <img src="./assets/ascihand-removebg-preview.png" alt="Banner" width="100%">
 </p>
 
-<p align="left">
-HIII, mi nombre ser vale y soy estudiante de ingeniería en IA
+<h1 align="center">Hi 👋, Imma Shady</h1>
+
+<h3 align="center">AI engineer student</h3>
+
+<p align="center">
+  <img src= https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=+%3E+Start+Debugging+The+Chaos;%3E+Code+Like+A+Menace;+%3E+If+It+Compiles%2C+It's++Staying;Just+Code+Nig alt="Typing SVG" />
+</p>
+
+<p align="center">
+Building reliable backend systems with clean architecture and scalable solutions.
 </p>
 
 
