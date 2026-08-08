@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./assets/ascihand-removebg-preview.png" alt="Banner" width="100%">
+  <img src="./assets/vale.png" alt="Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, Imma Shady</h1>
+<h1 align="center">Hi 👋, Im valeee</h1>
 
 <h3 align="center">AI engineer student</h3>
 
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-Building reliable backend systems with clean architecture and scalable solutions.
+Learning everything i can about this wonderful technological world.
 </p>
 
 
