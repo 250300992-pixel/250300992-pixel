@@ -1,7 +1,7 @@
-<p align="center">
-  <img src="./assets/helloworld.png" alt="Banner" width="100%">
+<p align="left">
+  <img src="./assets/helloworld.png" alt="Banner" width="50%">
 </p>
-<p align="center">
+<p align="right">
   <img src="./assets/comp.png" alt="Banner" width="100%">
 </p>
 <h1 align="center">Hi 👋, Im valeee</h1>
