@@ -1,21 +1,22 @@
 <p align="center">
-  <img src="./assets/comp.png" alt="Banner" width="90%">
+  <img src= https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=5500&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=+%3E+Helloooo+My+Name+Is+Valee; alt="Typing SVG" />
 </p>
 
 <h1 align="center">Hi 👋, Im valeee</h1>
 
 <h3 align="center">AI engineer student</h3>
 
-<p align="center">
-  <img src= https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=+%3E+Start+Having+Some+Fun;%3E+Working+hard+or+hardly+working?;+%3E+If+It+works%2C+Don't+fix+it; alt="Typing SVG" />
-</p>
 
 <p align="center">
-Learning everything i can about this wonderful technological world.
+  <img src= https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=5500&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=+%3E+I+Try+To+Learn+As+Much+As+I+Can; alt="Typing SVG" />
 </p>
 
 
-##  <h2 align="center">🚀 About Me </h2>
+
+<p align="center">
+  <img src= https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=5500&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=+%3E+About+Me+:); alt="Typing SVG" />
+</p>
+
 
 <img align="right" src="./assets/comp.png" width="480" alt="Developer Illustration"/>
 
@@ -23,7 +24,10 @@ Learning everything i can about this wonderful technological world.
 
 <br clear="right"/>
 
- <h2 align="center">🤝 Connect</h2>
+ <p align="center">
+  <img src= https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=12000&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=+%3E+Let's+Be+Friends; alt="Typing SVG" />
+</p>
+
 
 <p align="center">
   <a href="[https://github.com/250300992-pixel]">
@@ -39,14 +43,20 @@ Learning everything i can about this wonderful technological world.
   </a>
 </p>
 
-<h2 align="center">💻 Tech Stack</h2>
+<p align="center">
+  <img src= https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=12000&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=+%3E+Some+Things+I've+Worked+With; alt="Typing SVG" />
+</p>
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,docker,git,github,vscode,html,css,c,aws" />
 </p>
 
 
-<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img src= https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=12000&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=+%3E+GithHub+Stats; alt="Typing SVG" />
+</p>
+
 
 <div align="center">
 
