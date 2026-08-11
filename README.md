@@ -1,8 +1,8 @@
 <p align="left">
-  <img src="./assets/helloworld.png" alt="Banner" width="50%">
+  <img src="./assets/helloworld.png" alt="Banner" width="70%">
 </p>
-<p align="right">
-  <img src="./assets/comp.png" alt="Banner" width="100%">
+<p align="left">
+  <img src="./assets/comp.png" alt="Banner" width="90%">
 </p>
 <h1 align="center">Hi 👋, Im valeee</h1>
 
