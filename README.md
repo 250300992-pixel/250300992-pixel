@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
   <img src="./assets/comp.png" alt="Banner" width="90%">
 </p>
 
