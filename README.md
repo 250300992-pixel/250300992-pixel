@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./assets/hello worlddd.png" alt="Banner" width="100%">
+  <img src="./assets/helloworld.png" alt="Banner" width="100%">
 </p>
 <p align="center">
-  <img src="./assets/descarga.png" alt="Banner" width="100%">
+  <img src="./assets/comp.png" alt="Banner" width="100%">
 </p>
 <h1 align="center">Hi 👋, Im valeee</h1>
 
