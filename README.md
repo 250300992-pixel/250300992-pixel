@@ -1,9 +1,7 @@
 <p align="left">
-  <img src="./assets/helloworld.png" alt="Banner" width="70%">
-</p>
-<p align="left">
   <img src="./assets/comp.png" alt="Banner" width="90%">
 </p>
+
 <h1 align="center">Hi 👋, Im valeee</h1>
 
 <h3 align="center">AI engineer student</h3>
