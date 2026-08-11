@@ -7,7 +7,7 @@
 <h3 align="center">AI engineer student</h3>
 
 <p align="center">
-  <img src= https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=+%3E+Start+Debugging+The+Chaos;%3E+Code+Like+A+Menace;+%3E+If+It+Compiles%2C+It's++Staying;Just+Code+Nig alt="Typing SVG" />
+  <img src= https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=+%3E+Start+Having+Some+Fun;%3E+Working+hard+or+hardly+working?;+%3E+If+It+works%2C+Don't+fix+it; alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@ Learning everything i can about this wonderful technological world.
 
 ##  <h2 align="center">🚀 About Me </h2>
 
-<img align="right" src="./assets/astro-removebg-preview.png" width="280" alt="Developer Illustration"/>
+<img align="right" src="./assets/comp.png" width="480" alt="Developer Illustration"/>
 
 **valeee**, Here  — AI engineering student passionate about software development. I have worked with Python, Django, and PostgreSQL on projects such as data management systems, role-based authentication, dashboards, and REST APIs, as well as Access databases and Excel automation using openpyxl. I am interested in robotics and creative coding, including interactive animations in p5.js. Founder of UsagiCode, a community focused on programming, web development, cybersecurity, and AI.
 
