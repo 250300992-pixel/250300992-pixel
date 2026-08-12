@@ -18,7 +18,7 @@
 </p>
 
 
-<img align="right" src="./assets/comp.png" width="480" alt="Developer Illustration"/>
+<img align="right" src="./assets/gatito.png" width="480" alt="Developer Illustration"/>
 
 **valeee**, Here  — AI engineering student passionate about software development. I have worked with Python, Django, and PostgreSQL on projects such as data management systems, role-based authentication, dashboards, and REST APIs, as well as Access databases and Excel automation using openpyxl. I am interested in robotics and creative coding, including interactive animations in p5.js. Founder of UsagiCode, a community focused on programming, web development, cybersecurity, and AI.
 
