@@ -86,7 +86,9 @@
 
 <h2 align="center">⌘ Philosophy</h2>
 
-<p align="center">
+<img align="left" src="./assets/comp.png" width="180" alt="Developer Illustration"/>
+
+<p align="right">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/>
 </p>
 
