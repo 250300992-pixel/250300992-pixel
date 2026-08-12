@@ -90,5 +90,10 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/>
 </p>
 
+<p align="center">
+  <img src= https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=5500&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=+%3E+ultimada+madre+me+vale+mente; alt="Typing SVG" />
+</p>
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
