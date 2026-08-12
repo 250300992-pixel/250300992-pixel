@@ -88,7 +88,7 @@
 
 <table>
   <tr>
-    <td width="460" align="left">
+    <td width="360" align="left">
       <img src="./assets/gatito2.png" width="540" alt="Developer Illustration"/>
     </td>
     <td align="right">
