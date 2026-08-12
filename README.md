@@ -86,11 +86,16 @@
 
 <h2 align="center">⌘ Philosophy</h2>
 
-<img align="left" src="./assets/comp.png" width="180" alt="Developer Illustration"/>
-
-<p align="right">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/>
-</p>
+<table>
+  <tr>
+    <td width="460" align="left">
+      <img src="./assets/gatito2.png" width="540" alt="Developer Illustration"/>
+    </td>
+    <td align="right">
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src= https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=5500&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=+%3E+ultimada+madre+me+vale+mente; alt="Typing SVG" />
